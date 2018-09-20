@@ -3,6 +3,6 @@ Projection Correlation in Rcpp
 
 If you would like to install PC package from Github, please type in:
 
-devtools::install_github("YilinZhang97/PC")
+devtools::install_github("YilinZhang97/PCOR")
 
-library(PC)
+library(PCOR)
